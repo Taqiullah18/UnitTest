@@ -1,4 +1,4 @@
-Open python-tests.yml and enter the following code:
+
 name: Python Pytest Automation
 on:
   push:
